@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "829836685938",
+    "firebase_url": "https://fir-curd-d0da4.firebaseio.com",
+    "project_id": "fir-curd-d0da4",
+    "storage_bucket": "fir-curd-d0da4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:829836685938:android:02af6fd57e8f941a0748eb",
+        "android_client_info": {
+          "package_name": "co.rajapp.firestore_curd_flutter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "829836685938-5vkd7pdqir0r47p2k7qbvu9pde24kmld.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDSiSONuFMP0cKLMTNPOFb2f0UbgYoQUf0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "829836685938-5vkd7pdqir0r47p2k7qbvu9pde24kmld.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
